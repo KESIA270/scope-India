@@ -1,0 +1,1 @@
+ /Users/kesiajose/StudioProjects/scopeindiamain/.dart_tool/flutter_build/e2095c3dd1b28c61be7b32526666024a/native_assets.yaml: 
